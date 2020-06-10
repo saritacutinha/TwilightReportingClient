@@ -1,0 +1,15 @@
+C:\Users\sarit\source\repos\TwilightReportingClient\obj\Debug\SunriseSunsetClient.csprojAssemblyReference.cache
+C:\Users\sarit\source\repos\TwilightReportingClient\obj\Debug\TwilightReportingClient.Properties.Resources.resources
+C:\Users\sarit\source\repos\TwilightReportingClient\obj\Debug\TwilightReportingClient.ReportView.resources
+C:\Users\sarit\source\repos\TwilightReportingClient\obj\Debug\SunriseSunsetClient.csproj.GenerateResource.cache
+C:\Users\sarit\source\repos\TwilightReportingClient\obj\Debug\SunriseSunsetClient.csproj.CoreCompileInputs.cache
+C:\Users\sarit\source\repos\TwilightReportingClient\bin\Debug\TwilightReportingClient.exe.config
+C:\Users\sarit\source\repos\TwilightReportingClient\bin\Debug\TwilightReportingClient.exe
+C:\Users\sarit\source\repos\TwilightReportingClient\bin\Debug\TwilightReportingClient.pdb
+C:\Users\sarit\source\repos\TwilightReportingClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sarit\source\repos\TwilightReportingClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\sarit\source\repos\TwilightReportingClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sarit\source\repos\TwilightReportingClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\sarit\source\repos\TwilightReportingClient\obj\Debug\SunriseSunsetClient.csproj.CopyComplete
+C:\Users\sarit\source\repos\TwilightReportingClient\obj\Debug\TwilightReportingClient.exe
+C:\Users\sarit\source\repos\TwilightReportingClient\obj\Debug\TwilightReportingClient.pdb
